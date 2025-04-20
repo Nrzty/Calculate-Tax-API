@@ -8,7 +8,7 @@ You can run this application in two ways:
 
 ### ✅ Using the terminal
 
-Make sure you have **Java 17** and **Maven** installed.
+Make sure you have **Java 21** and **Maven** installed.
 
 ```bash
 mvn spring-boot:run
